@@ -1,0 +1,828 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px){
+
+/*Header Start*/
+
+.logo{
+	font-size: 26px;
+}
+.menu ul{
+	text-align: right;
+}
+.menu ul li{
+	margin-right: 0;
+}
+.nipro_search{
+	text-align: right;
+}
+.custom_ss{
+	padding: 0;
+}
+.dd_menu[data-bs-popper] {
+  	top: -28%;
+  	left: 50px;
+}
+.menu ul li a{
+	margin-top: 8px;
+}
+.dropdown-menu {
+    min-width: 250px;
+    border: none;
+}
+
+	/*Header End*/
+	/*Slider Start*/
+	.slider_item{
+	margin: 100px 0;
+}
+.slider_item h2{
+	font-size: 26px;
+}
+.slider_item p{
+	font-size: 15px;
+	margin-right: 0;
+}
+
+/*Slider End*/
+/*service start*/
+.service {
+    padding-bottom: 50px;
+}
+.service .title{
+	font-size: 26px;
+}
+
+.service_para{
+	margin-top: 5px;
+	margin-bottom: 26px;
+}
+.service_box{
+	margin-top: 30px;
+}
+.service_text {
+    margin-bottom: 20px;
+}
+.service_head {
+    margin-top: 0px;
+ }
+/*service end*/
+
+/*about start*/
+.about {
+    padding-bottom: 90px;
+    text-align: center;
+}
+
+.about .title{
+	font-size: 26px;
+}
+
+.about_img{
+	margin-bottom: 15px;
+}
+.about_content .about_p_one {
+	margin-right: 0;
+    margin-top: 10px;
+}
+.about_content .about_p_two {
+	margin-right: 0;
+    margin-bottom: 45px;
+}
+/*about end*/
+
+/*portfolio start*/
+.portfolio {
+    padding-bottom: 50px;
+}
+.portfolio .title {
+	margin-bottom: 0;
+	font-size: 26px;
+}
+.box-menu ul li{
+	margin-right: 0px !important;
+}
+.box-item{
+	margin-right: 0px;
+	width: 100%;
+} 
+
+/*portfolio end*/
+
+/*Choose nipro start*/
+.choose_nipro{
+	padding-bottom: 50px;
+}
+.choose_wrapper .choose_title{
+	margin-left: 20px;
+}
+.choose_wrapper{
+	margin-top: 20px;
+}
+.choose_wrapper p{
+	margin-top: -15px;
+}
+.choose_nipro .title{
+	font-size: 26px;
+	margin-bottom: -20px;
+}
+
+.arrow{
+	margin-bottom: 0px;
+}
+.line{
+	margin-top: 0px;
+}
+/*choose nipro end*/
+
+/*Team start*/
+.team{
+	padding-bottom: 50px;
+}
+.team_wrapper{
+	margin-top: 16px;
+}
+.team .title {
+    margin-bottom: -50px;
+    font-size: 26px;
+}
+/*Team end*/
+
+/*price start*/
+
+.price .title {
+    margin-bottom: -50px;
+}
+
+.price{
+	padding-bottom: 50px;
+}
+
+.price_wrapper{
+	margin-top: 20px;
+}
+.price_wrapper li{
+	margin-bottom: 10px;
+}
+
+.price_wrapper p{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+/*price end*/
+
+/*buy now start*/
+.buy_now_head{
+	margin-bottom: 10px;
+}
+.buy_now_head h1{
+	font-size: 16px;
+	text-align: center;
+}
+.price .title{
+	font-size: 26px;
+}
+
+/*buy now end*/
+
+/*Tesimonial Start*/
+.testimonial{
+	padding-top: 50px;
+}
+.tc_prev_icon, .tc_next_icon {
+    transform: none;
+}
+.testi_control {
+	padding-top: 0;
+	padding-left: 0;
+    background-color: #f8f8f8;
+    border: 1px solid #cccccc;
+}
+.car_in {
+    margin: -22px 0px;
+    flex-direction: row;
+    padding-top: 5px;
+}
+.tc_next{
+	margin-left: auto;
+	margin-right: 13px;
+}
+.tc_prev_icon{
+	padding-top: 5px;
+}
+
+.testi_img{
+	width: 40% !important;
+	margin-bottom: 10px;
+}
+
+.bq{
+	top: 2%;
+    left: 33%;
+}
+
+.testi_innner p{
+	font-size: 15px;
+	line-height: 22px;
+}
+
+.testimonial_main{
+	padding: 5px 5px;
+    border: 1px solid #cccccc;
+}
+/*Testimonial End*/
+/*Contact Start*/
+.contact{
+	padding: 50px 0;
+}
+.contact_title{
+	margin-top: -16px;
+	margin-bottom: 18px;
+	width: 180px;
+}
+.contact_title .title{
+	font-size: 26px;
+}
+.contact_input{
+	margin-bottom: 18px;
+}
+.contact_container a{
+	margin-bottom: 18px;
+}
+/*Contact end*/
+
+/*Footer start*/
+.footer_icon{
+	margin-bottom: 50px;
+}
+.footer_icon a{
+	width: 30px !important;
+	height: 30px !important;
+}
+
+.footer_icon li a i{
+	color: #fff;
+	font-size: 16px;
+	line-height: 28px;
+	transition: 0.3s;
+}
+
+.footer_top_text{
+	color: #fff;
+	margin: 15px 0 25px 0;
+}
+
+.footer_text p{
+	margin-bottom: 10px !important;
+	text-align: center;
+}
+.footer_text{
+	padding: 20px 0;
+}
+
+.footer_text ul{
+	text-align: center;
+}
+.footer_text li{
+	margin-right: 15px !important;
+}
+.footer_text li:nth-child(3){
+	margin-right: 0px !important;
+}
+/*Footer end*/
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*Header Start*/
+.menu ul{
+	text-align: right;
+}
+.menu ul li{
+	margin-right: 0;
+}
+.nipro_search{
+	text-align: right;
+}
+.custom_ss{
+	text-align: left;
+}
+.dd_menu[data-bs-popper] {
+  	top: -28%;
+   	left: 110px;
+}
+.menu ul li a{
+	margin-top: 8px;
+}
+	/*Header End*/
+
+	/*Slider Start*/
+	.slider_item{
+	margin: 150px 0;
+}
+.slider_item h2{
+	font-size: 40px;
+}
+
+.slider_item p{
+	margin-right: 0;
+}
+/*Slider End*/
+
+/*Slider End*/
+
+/*Service Start*/
+.service {
+    padding-bottom: 60px;
+}
+.service_para{
+	margin: 18px 0 36px;
+}
+.service_box{
+	margin-top: 30px;
+}
+/*service end*/
+
+/*about start*/
+.about{
+	padding-bottom: 60px;
+}
+
+.about_img{
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.about_content{
+	text-align: center;
+}
+.about_content .about_p_one{
+	margin-right: 0;
+	margin-top: 15px;
+	font-size: 16px;
+}
+
+.about_content .about_p_two{
+	margin-right: 0;
+	margin-bottom: 45px;
+	font-size: 16px;
+}
+/*about end*/
+
+/*portfolio start*/
+.portfolio .title {
+	margin-bottom: 0;
+}
+
+.portfolio {
+    padding-bottom: 60px;
+}
+.box-menu ul li{
+	margin-right: 0px !important;
+}
+.box-item:hover .port_text{
+    height: 40%;
+}
+
+.box-item:hover .port_icon{
+    height: 60%;
+}
+
+/*portfolio end*/
+
+/*Choose nipro start*/
+.choose_nipro{
+	padding-bottom: 60px;
+}
+.choose_wrapper .choose_title{
+	margin-left: 20px;
+}
+.choose_wrapper{
+	margin-top: 20px;
+}
+.choose_wrapper p{
+	margin: 0px !important;
+}
+.choose_nipro .title{
+	margin-bottom: -20px;
+}
+/*choose nipro end*/
+
+/*Team start*/
+.team .title {
+    margin-bottom: -50px;
+}
+.team{
+	padding-bottom: 60px;
+}
+.team_wrapper{
+	margin-top: 16px;
+}
+.team_text h2{
+	font-size: 16px;
+}
+.team_text{
+	padding: 3px 2px;
+}
+/*Team end*/
+
+/*price start*/
+
+.price .title {
+    margin-bottom: -30px;
+}
+
+.price{
+	padding-bottom: 60px;
+}
+
+.price_wrapper{
+	margin-top: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+/*price end*/
+
+/*Tesimonial Start*/
+.testimonial{
+	padding-top: 60px;
+}
+.testimonial_main{
+	padding: 15px 0px;
+    border: 1px solid #cccccc;
+}
+.tc_prev_icon, .tc_next_icon {
+    transform: none;
+}
+.testi_control {
+	padding-top: 0;
+	padding-left: 0;
+    background-color: #f8f8f8;
+    border: 1px solid #cccccc;
+}
+.car_in {
+    margin: -22px;
+    flex-direction: row;
+    padding-top: 5px;
+}
+.tc_next{
+	margin-left: auto;
+}
+.tc_prev_icon{
+	padding-top: 5px;
+}
+
+.testi_img{
+	width: 40% !important;
+	margin-bottom: 10px;
+}
+
+.bq{
+	top: 14px;
+	left: 175px;
+}
+/*Testimonial End*/
+/*Contact Start*/
+.contact{
+	padding: 60px 0;
+}
+.contact_title{
+	margin-bottom: 25px;
+}
+.contact_input{
+	margin-bottom: 25px;
+}
+.contact_container a{
+	margin-bottom: 25px;
+}
+/*Contact end*/
+
+/*Footer start*/
+.footer_icon{
+	margin-bottom: 60px;
+}
+
+.footer_text p{
+	margin-bottom: 10px !important;
+	font-size: 15px;
+}
+.footer_text li{
+	text-align: center;
+	margin-right: 10px !important;
+}
+
+.footer_top_text{
+	color: #fff;
+	margin: 20px 0 30px 0;
+}
+.footer_text{
+	padding: 18px 0;
+	text-align: center;
+}
+
+/*Footer end*/
+
+}
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*Header Start*/
+.menu ul{
+	text-align: right;
+}
+.menu ul li{
+	margin-right: 0;
+}
+.nipro_search{
+	text-align: right;
+}
+
+.custom_ss{
+	text-align: left;
+}
+
+.dd_menu[data-bs-popper] {
+  	top: -28%;
+   	left: 285px;
+}
+.menu ul li a{
+	margin-top: 8px;
+}
+	/*Header End*/
+
+	/*Slider Start*/
+	.slider_item{
+	margin: 150px 0;
+}
+.slider_item h2{
+	font-size: 50px;
+}
+.slider_item p{
+	margin-right: 0;
+}
+/*Slider End*/
+
+/*Service Start*/
+.service {
+    padding-bottom: 80px;
+}
+.service_para{
+	margin: 18px 0 36px;
+}
+.service_box{
+	margin-top: 30px;
+}
+/*service end*/
+
+/*about start*/
+.about{
+	padding-bottom: 80px;
+}
+
+.about_img{
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.about_content{
+	text-align: center;
+}
+.about_content .about_p_one{
+	margin-right: 0;
+	margin-top: 15px;
+	font-size: 16px;
+}
+
+.about_content .about_p_two{
+	margin-right: 0;
+	margin-bottom: 45px;
+	font-size: 16px;
+}
+/*about end*/
+
+/*portfolio start*/
+.portfolio {
+    padding-bottom: 80px;
+}
+
+.box-item:hover .port_text{
+    height: 30%;
+}
+
+.box-item:hover .port_icon{
+    height: 70%;
+}
+
+/*portfolio end*/
+
+/*Choose start*/
+.choose_nipro{
+	padding-bottom: 80px;
+}
+.choose_nipro .title{
+	margin-bottom: -20px;
+}
+/*Choose end*/
+
+/*Team start*/
+.team .title {
+    margin-bottom: -30px;
+}
+.team{
+	padding-bottom: 80px;
+}
+.team_wrapper{
+	margin-top: 16px;
+}
+/*Team end*/
+
+/*price start*/
+
+.price .title {
+    margin-bottom: -30px;
+}
+
+.price{
+	padding-bottom: 80px;
+}
+
+.price_wrapper{
+	margin-top: 20px;
+}
+.price_wrapper li{
+	margin-bottom: 10px;
+}
+
+.price_wrapper p{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+/*price end*/
+
+
+/*Testimonial start*/
+.testimonial{
+	padding-top: 80px;
+}
+
+.testi_control {
+	padding-top: 20px;
+	padding-left: 0px;
+}
+.testi_img{
+	margin-top: 72px;
+}
+
+.car_in {
+    margin: 130px 0 120px 0px;
+}
+
+.bq{
+	top: 80px;
+	left: 20px;
+}
+
+/*Testimonial end*/
+/*Contact Start*/
+.contact{
+	padding: 80px 0;
+}
+.contact_title{
+	margin-bottom: 25px;
+}
+.contact_input{
+	margin-bottom: 25px;
+}
+/*Contact end*/
+
+/*Footer start*/
+.footer_icon{
+	margin-bottom: 80px;
+}
+
+.footer_text p{
+	font-size: 15px;
+}
+.footer_text li{
+	text-align: center;
+	margin-right: 10px !important;
+}
+.footer_text ul{
+	text-align: right;
+}
+.footer_top_text{
+	color: #fff;
+	margin: 25px 0 35px 0;
+}
+.footer_text{
+	padding: 30px 0;
+}
+
+/*Footer end*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*Slider Start*/
+
+.slider_item{
+	margin: 160px 0;
+}
+
+.slider_item h2{
+	font-size: 50px;
+}
+.slider_item p{
+	margin-right: 0;
+}
+
+/*Slider End*/
+
+/*service start*/
+.service_box{
+	padding: 0 0 30px 0;
+}
+.service_icon{
+	margin-top: -20px;
+}
+/*service end*/
+
+/*about start*/
+
+.about .title{
+	margin-bottom: 0;
+}
+
+.about_content .about_p_one{
+	margin-right: 0px;
+	margin-top: 10px;
+	line-height: 22px;
+}
+
+.about_content .about_p_two{
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	line-height: 22px;
+}
+
+.about_content a{
+	padding: 17px 40px;
+}
+
+/*about end*/
+
+/*choose nipro start*/
+.choose_nipro .choose_title{
+	margin-left: 15px;
+}
+/*Choose end*/
+
+/*Team start*/
+.team_text{
+	padding: 3px 2px;
+}
+.team_text h2{
+	font-size: 16px;
+}
+/*Team end*/
+
+/*Price start*/
+.price_wrapper{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+/*price end*/
+
+/*Testimonial start*/
+.testi_control {
+	padding-top: 20px;
+	padding-left: 8px;
+}
+.testi_img{
+	margin-top: 22px;
+}
+
+.bq{
+	top: 28px;
+	left: 30px;
+}
+
+/*Testimonial end*/
+
+}
+
+/*X large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*XX Large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
+
